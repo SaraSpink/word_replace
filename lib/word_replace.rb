@@ -1,3 +1,4 @@
+#! usr/bin/env ruby
 class Replace
   def initialize()
   end
